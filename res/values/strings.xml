@@ -9,5 +9,23 @@
     <string name="navigation_drawer_close">Close navigation drawer</string>
     <string name="action_example">Example action</string>
     <string name="action_settings">Settings</string>
+    <string name="save">保存</string>
+    <string name="saveArtical">保存文章</string>
+    <string name="chooseCategory">选择分类</string>
+     <string name="addCategory">添加分类</string>
+      <string name="title">标题</string>
+       <string name="address">来源</string>
+
+    <string-array name="categories">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+        <item>item4</item>
+        <item>item5</item>
+        <item>item6</item>
+    </string-array>
+    <string name="open_wifi">网络没有打开，开启Wifi?</string>
+    <string name="ok">好的</string>
+    <string name="no">算了</string>
 
 </resources>
